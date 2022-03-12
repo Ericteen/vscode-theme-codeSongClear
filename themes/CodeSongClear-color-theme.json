@@ -421,5 +421,10 @@
     "editorBracketHighlight.foreground4": "#95CC5E",
     "editorBracketHighlight.foreground5": "#e61f44",
     "editorBracketHighlight.foreground6": "#D76538",
+    "tab.activeForeground": "#dedede",
+    "tab.activeBackground": "#36312C",
+    "tab.hoverBackground": "#3b3733",
+    "tab.activeBorderTop": "#96785b",
+    "activityBar.activeBorder": "#96785b",
   }
 }

@@ -1,28 +1,30 @@
 {
-  "name": "codesong",
-  "displayName": "codesong",
-  "publisher": "connor4312",
-  "description": "Fork of Dayle Rees's Earthsong theme with improvements for VS Code",
-  "version": "1.0.3",
+  "name": "codesong_clear",
+  "displayName": "codesong_clear",
+  "publisher": "EricCheng",
+  "description": "Fork of Connor's codesong theme with some preferences modification for VS Code",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.48.0"
   },
   "keywords": [
-    "daylerees/colour-schemes"
+    "daylerees/colour-schemes",
+    "codesong",
+    "codesong_clear"
   ],
   "categories": [
     "Themes"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/connor4312/codesong.git"
+    "url": "https://github.com/Ericteen/codesong-clear"
   },
   "contributes": {
     "themes": [
       {
-        "label": "Codesong",
+        "label": "CodeSongClear",
         "uiTheme": "vs-dark",
-        "path": "./themes/Codesong-color-theme.json"
+        "path": "./themes/CodeSongClear-color-theme.json"
       }
     ]
   }
