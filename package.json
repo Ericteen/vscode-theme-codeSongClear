@@ -27,5 +27,6 @@
         "path": "./themes/CodeSongClear-color-theme.json"
       }
     ]
-  }
+  },
+  "icon": "icon.png"
 }
