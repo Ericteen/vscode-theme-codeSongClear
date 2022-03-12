@@ -1,6 +1,6 @@
 {
-  "name": "codesong_clear",
-  "displayName": "codesong_clear",
+  "name": "codesongClear",
+  "displayName": "codesongClear",
   "publisher": "EricCheng",
   "description": "Fork of Connor's codesong theme with some preferences modification for VS Code",
   "version": "1.0.0",
@@ -10,7 +10,7 @@
   "keywords": [
     "daylerees/colour-schemes",
     "codesong",
-    "codesong_clear"
+    "codesongClear"
   ],
   "categories": [
     "Themes"
