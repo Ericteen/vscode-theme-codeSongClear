@@ -3,7 +3,7 @@
   "displayName": "codesongClear",
   "publisher": "EricCheng",
   "description": "Fork of Connor's codesong theme with some preferences modification for VS Code",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "engines": {
     "vscode": "^1.48.0"
   },
