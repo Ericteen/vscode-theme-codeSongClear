@@ -426,5 +426,7 @@
     "tab.hoverBackground": "#3b3733",
     "tab.activeBorderTop": "#96785b",
     "activityBar.activeBorder": "#96785b",
+    "editorGroupHeader.tabsBackground": "#232323",
+    "editorGroup.border": "#232323",
   }
 }
